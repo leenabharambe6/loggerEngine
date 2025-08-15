@@ -1,0 +1,82 @@
+[
+  {
+    "level": "error",
+    "message": "Failed to connect to database111222.",
+    "resourceId": "server-1234",
+    "timestamp": "2025-08-15T08:00:00Z",
+    "traceId": "abc-xyz-123",
+    "spanId": "span-456",
+    "commit": "5e5342f",
+    "metadata": "[object Object]"
+  },
+  {
+    "level": "error",
+    "message": "Failed to connect to database111.",
+    "resourceId": "server-1234",
+    "timestamp": "2025-08-15T08:00:00Z",
+    "traceId": "abc-xyz-123",
+    "spanId": "span-456",
+    "commit": "5e5342f",
+    "metadata": "[object Object]"
+  },
+  {
+    "level": "error",
+    "message": "Failed to connect to database.",
+    "resourceId": "server-1234",
+    "timestamp": "2025-08-15T08:00:00Z",
+    "traceId": "abc-xyz-123",
+    "spanId": "span-456",
+    "commit": "5e5342f",
+    "metadata": "[object Object]"
+  },
+  {
+    "level": "debug",
+    "message": "Failed to connect to database.",
+    "resourceId": "server-1234",
+    "timestamp": "2025-08-15T08:00:00Z",
+    "traceId": "abc-xyz-123",
+    "spanId": "span-456",
+    "commit": "5e5342f",
+    "metadata": "[object Object]"
+  },
+  {
+    "level": "info",
+    "message": "Failed to connect to database.",
+    "resourceId": "server-1234",
+    "timestamp": "2025-08-15T08:00:00Z",
+    "traceId": "abc-xyz-123",
+    "spanId": "span-456",
+    "commit": "5e5342f",
+    "metadata": "[object Object]"
+  },
+  {
+    "level": "warn",
+    "message": "Failed to connect to database.",
+    "resourceId": "server-1234",
+    "timestamp": "2025-08-15T08:00:00Z",
+    "traceId": "abc-xyz-123",
+    "spanId": "span-456",
+    "commit": "5e5342f",
+    "metadata": "[object Object]"
+  },
+  {
+    "timestamp": "2025-08-15T21:16",
+    "level": "info",
+    "commit": "abc",
+    "message": "abc",
+    "traceId": "abc",
+    "resourceId": "abc",
+    "spanId": "abc",
+    "metadata": "[object Object]"
+  },
+  {
+    "timestamp": "2025-08-15T18:22",
+    "level": "debug",
+    "commit": "abc",
+    "message": "aaa",
+    "traceId": "aaa",
+    "resourceId": "aaa",
+    "spanId": "aaa",
+    "metadata": "[object Object]"
+  }
+]
